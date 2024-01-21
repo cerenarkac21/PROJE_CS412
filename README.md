@@ -1,4 +1,4 @@
- To see the development phase commit: first check "dev-main",
+ To see the development: first check "dev-main",
 Then "main",
 Then "bonus part" branches.
 

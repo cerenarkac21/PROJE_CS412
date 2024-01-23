@@ -1,8 +1,9 @@
- To see the development: first check "dev-main",
+# FOR PEER EVALUATION: check "bonus-part" !!!!
+
+To see the development: first check "dev-main",
 Then "main",
 Then "bonus part" branches.
 
-For peer evaluation: check "bonus-part"
 
 Cs412 Final Project
 

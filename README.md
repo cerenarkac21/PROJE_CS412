@@ -79,34 +79,32 @@ Team Contribution
 
 Ceren Arkaç:
   Contributed at steps: 
-    HTML extraction
-    histoy dataset preprocessing
-    scores dataset preprocessing
-    feature engineering
-    hyperparameter tuning
-    model training
-    PCA
-    handling skewed data
-    troubleshooting
+    HTML extraction,
+    histoy dataset preprocessing,
+    scores dataset preprocessing,
+    feature engineering,
+    hyperparameter tuning,
+    model training,
+    PCA,
+    handling skewed data,
+    troubleshooting.
 Minel Sena Sakarya:
   Contributed at steps:
-    feature engineering and extraction
-    model training and hyperparameter tuning of the models
+    feature engineering and extraction,
+    model training and hyperparameter tuning of the models,
 Ege Sezginer:
   Contributed at steps:
-    implementation of code2newfetures
-    implementation of Correlations investigation & hyperparameter tuning part
-    İmplementation of finding the similarity between the prompts of the students who got 100, with            tf-idf approach and with word2vec approach.  
+    implementation of code2newfetures,
+    implementation of Correlations investigation & hyperparameter tuning part,
+    İmplementation of finding the similarity between the prompts of the students who got 100, with tf-idf approach and with word2vec approach.  
 Ahmethan Özcan:
   Contributed at steps:
-    HTML extraction
-    HTML files preprocessing
-    Frequency mapping by word2vec 
-    Troubleshooting
-
-
+    HTML extraction,
+    HTML files preprocessing,
+    Frequency mapping by word2vec,
+    Troubleshooting.
 Mustafa Kepenek:
   Contributed at steps:
-    Attended on the meetings
-    made research on target variable transformations
-    implemented normalization
+    Attended on the meetings,
+    made research on target variable transformations,
+    implemented normalization.

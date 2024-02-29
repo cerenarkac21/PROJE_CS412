@@ -1,17 +1,10 @@
-# FOR PEER EVALUATION: check "bonus-part" !!!!
-
-To see the development: first check "dev-main",
-Then "main",
-Then "bonus part" branches.
-
-
 Cs412 Final Project
 
 
-Overview
+## Overview
 This project consists of 5 main parts which are, Data processing, Text Vectorization, Feature engineering, Correlations investigation & hyperparameter tuning and Model training. 
 
-In the data processing part, html files parsed into data frames. This data frame was divided prompt by prompt and unlike given in project base conversations not only include roles and text was also decided to divide code provided by chat gpt as well. 
+Html files parsed into data frames in the data processing phase. This data frame was divided prompt by prompt and unlike given in project base conversations not only include roles and text was also decided to divide code provided by chat gpt as well. 
 Then the data process continued by removing html tags, non asci cleaning, and invalid chat deletion. On the other hand, scores.csv was also cleaned and prepared to be merged into the main dataframe named df.
 
 
@@ -23,7 +16,7 @@ In  Correlations investigation & hyperparameter tuning part it has applied the k
 
 
 
-Methodology
+## Methodology
 
 
 1. Data Processing
@@ -64,7 +57,7 @@ Methodology
 
 
 
-Results
+## Results
 
 
 Decision Tree
@@ -85,19 +78,35 @@ Team Contribution
 
 
 Ceren Arkaç:
-- Contributed at steps: HTML extraction, HTML files dataset preprocessing, scores dataset preprocessing, feature engineering, hyperparameter tuning, model training, PCA,  troubleshooting
+  Contributed at steps: 
+    HTML extraction
+    histoy dataset preprocessing
+    scores dataset preprocessing
+    feature engineering
+    hyperparameter tuning
+    model training
+    PCA
+    handling skewed data
+    troubleshooting
 Minel Sena Sakarya:
--Contributed at feature engineering and extraction
--Contributed model training and hyperparameter tuning of the models
+  Contributed at steps:
+    feature engineering and extraction
+    model training and hyperparameter tuning of the models
 Ege Sezginer:
--implementation of code2newfetures
--implementation of Correlations investigation & hyperparameter tuning part
--İmplementation of finding the similarity between the prompts of the students who got 100, with            tf-idf approach and with word2vec approach.  
-Ahmethan Özcan: 
-* HTML extraction
-* HTML files preprocessing
-* Frequency mapping by word2vec 
-* Troubleshooting
+  Contributed at steps:
+    implementation of code2newfetures
+    implementation of Correlations investigation & hyperparameter tuning part
+    İmplementation of finding the similarity between the prompts of the students who got 100, with            tf-idf approach and with word2vec approach.  
+Ahmethan Özcan:
+  Contributed at steps:
+    HTML extraction
+    HTML files preprocessing
+    Frequency mapping by word2vec 
+    Troubleshooting
 
 
-Mustafa Kepenek: Attended on the meetings and made research on target variable transformations, implemented normalization
+Mustafa Kepenek:
+  Contributed at steps:
+    Attended on the meetings
+    made research on target variable transformations
+    implemented normalization

@@ -1,4 +1,4 @@
-Cs412 Final Project
+# CS 412 Term Project
 
 
 ## Overview
@@ -74,10 +74,10 @@ R-squared: -0.4069453811615107
 
 
 
-Team Contribution
+## Team Contribution
 
 
-Ceren Arkaç:
+### Ceren Arkaç:
   Contributed at steps: 
     HTML extraction,
     histoy dataset preprocessing,
@@ -88,22 +88,22 @@ Ceren Arkaç:
     PCA,
     handling skewed data,
     troubleshooting.
-Minel Sena Sakarya:
+### Minel Sena Sakarya:
   Contributed at steps:
     feature engineering and extraction,
     model training and hyperparameter tuning of the models,
-Ege Sezginer:
+### Ege Sezginer:
   Contributed at steps:
     implementation of code2newfetures,
     implementation of Correlations investigation & hyperparameter tuning part,
     İmplementation of finding the similarity between the prompts of the students who got 100, with tf-idf approach and with word2vec approach.  
-Ahmethan Özcan:
+### Ahmethan Özcan:
   Contributed at steps:
     HTML extraction,
     HTML files preprocessing,
     Frequency mapping by word2vec,
     Troubleshooting.
-Mustafa Kepenek:
+### Mustafa Kepenek:
   Contributed at steps:
     Attended on the meetings,
     made research on target variable transformations,
